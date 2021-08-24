@@ -1,4 +1,3 @@
- <img align="center" height="400" width="700" src="https://user-images.githubusercontent.com/70667947/130655443-6eece438-741a-421d-a07a-51562596ac47.png" alt="Logo">
  <img align="center" src="https://img.shields.io/github/stars/RenanEfrem/Instagram-Clone?style=for-the-badge">
  <img align="center" src="https://img.shields.io/github/forks/RenanEfrem/Instagram-Clone?style=for-the-badge">
  <h2>Mobile<h2>
