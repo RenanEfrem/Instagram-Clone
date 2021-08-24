@@ -1,7 +1,5 @@
  <img align="center" height="400" width="700" src="https://user-images.githubusercontent.com/70667947/130655443-6eece438-741a-421d-a07a-51562596ac47.png" alt="Logo">
- [![RenanEfrem - Instagram-Clone](https://img.shields.io/static/v1?label=RenanEfrem&message=Instagram-Clone&color=blue&logo=github)](https://github.com/RenanEfrem/Instagram-Clone)
-[![stars - Instagram-Clone](https://img.shields.io/github/stars/RenanEfrem/Instagram-Clone?style=social)](https://github.com/RenanEfrem/Instagram-Clone)
-[![forks - Instagram-Clone](https://img.shields.io/github/forks/RenanEfrem/Instagram-Clone?style=social)](https://github.com/RenanEfrem/Instagram-Clone)
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FRenanEfrem%2FInstagram-Clone">
  <h2>Mobile<h2>
  <img  align="center" height="700" width="700" src="https://user-images.githubusercontent.com/70667947/130653504-664b5491-399b-42a1-bb8e-17826550f2e1.png" alt="Mobile Screenshot">
  <h2>Desktop<h2>
